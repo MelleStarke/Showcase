@@ -1,3 +1,7 @@
+# Model Results
+- [Hebrew Character Decorruptor](https://github.com/MelleStarke/Showcase/Decorruptor)
+  CNN capable of restoring corrupted Hebrew characters from the Dead Sea Scrolls.
+
 # Slides
 - [Evaluation and Visualisation in Deep Reinforcement Learning](https://slides.com/mellestarke/drl_evaluation_tut/fullscreen)
   Made as a Teaching Assistant for the Deep Reinforcement Learning course at the University of Groningen.
