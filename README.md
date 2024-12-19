@@ -1,4 +1,4 @@
-# Showcase
+# Showcase (work in progress)
 Here you can find a curated collection of
   1. code that showcases my skills and style, and
   2. products that I'm proud to have worked on.
