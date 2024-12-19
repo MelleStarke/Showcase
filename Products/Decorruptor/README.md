@@ -4,7 +4,7 @@ For the Handwriting Recognition course at the University of Groningen, me and my
 
 I focussed my efforts on restoring the characters whose ink has been removed over the years. I did this through a CNN, which I trained on artificially corrupted characters.
 
-A visual representation of my efforts can be found below, where the white parts show the ink that was left after corrupting the characters, and the gold parts are reconstructed by the CNN. (For those interested, I chose gold as a nod to the practice of [kintsugi](https://en.wikipedia.org/wiki/Kintsugi).
+A visual representation of my efforts can be found below, where the white parts show the ink that was left after corrupting the characters, and the gold parts are reconstructed by the CNN. (For those interested, I chose gold as a nod to the practice of [kintsugi](https://en.wikipedia.org/wiki/Kintsugi)).
 
 ![restored kintsugi sample](https://github.com/MelleStarke/Showcase/blob/main/Products/Decorruptor/kintsugi_sample.png)
 
