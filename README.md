@@ -8,7 +8,7 @@ Although my [Coding Showcase](https://github.com/MelleStarke/Showcase/Code) and 
 ## Code
 
 ### Kenku
-Kenku is the product I'm developing for my Master's Thesis. Though I don't want to spoil the whole thing, I would like to showcase a recorrung module in my network.
+Kenku is the product I'm developing for my Master's Thesis. Though I don't want to spoil the whole thing, I would like to showcase a recurring module in my network.
 This module is based on the work of [Kameoka et al. (2021)](https://arxiv.org/pdf/2104.06900).
 
 ```python
