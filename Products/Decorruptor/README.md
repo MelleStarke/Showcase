@@ -6,7 +6,7 @@ I focussed my efforts on restoring the characters whose ink has been removed ove
 
 A visual representation of my efforts can be found below, where the white parts show the ink that was left after corrupting the characters, and the gold parts are reconstructed by the CNN. (For those interested, I chose gold as a nod to the practice of [kintsugi](https://en.wikipedia.org/wiki/Kintsugi).
 
-![restored kintsugi sample](https://github.com/MelleStarke/Showcase/blob/main/Products/Decorruptor/restored_sample.png)
+![restored kintsugi sample](https://github.com/MelleStarke/Showcase/blob/main/Products/Decorruptor/kintsugi_sample.png)
 
 For the sake of comparing the restoration better, here is a side-by-side of the original, artificially corrupted, and restored sample:
 
